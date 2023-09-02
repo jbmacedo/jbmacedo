@@ -1,7 +1,7 @@
-- 👋 Meu nome é João Vitor;
+- 👋 Meu nome é João Vitor Macedo;
 - 👀 Sou interassado por programação e amo estudar sobre;
-- 🌱 Atualemnte estudo Programa ONE Oracle, fazendo o cruso pela Alura;
-- 💞️ Estou a procura de evoluir como profissional e conseguir meu lugar no mercado de trabalho;
+- 🌱 Atualmente estou focando em estudar Java e back-end na Alura;
+- Estou a procura de evoluir como profissional e conseguir meu lugar no mercado de trabalho;
 - 📫 email : jbmacedo19@gmail.com.
 
 <!---
